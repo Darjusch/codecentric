@@ -36,7 +36,11 @@ Insert the name of the Programming language and you will get a developer that kn
 ## React - codecentric-react
 
 Create a .env file in the root directory
+
 Insert your Github Token - `REACT_APP_GITHUB_TOKEN=your_token_here`
-Run `npm i` to install the dependencies and then `npm run start` to start the program
+
+Run `npm i` to install the dependencies
+
+Run `npm run start` to start the program
 
 Insert the name of the Programming language and you will get a developer that knows that language.
