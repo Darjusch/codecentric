@@ -7,16 +7,7 @@ potentiellen Skills arbeitet, soll ein Tool entwickelt werden, das über eine
 einfache Abfrage der Programmiersprache die passenden Mitarbeiter
 anzeigt.
 
-All members:
-https://api.github.com/orgs/codecentric/members
-
-Repos of a member:
-https://api.github.com/users/danielschleindlsperger/repos
-
-Languages used in one Repo:
-https://api.github.com/repos/danielschleindlsperger/adventofcode2022/languages
-
-Wir haben zwei Tools entwickelt:
+## Wir haben zwei Tools entwickelt:
 
 Python-Tool:
 
